@@ -50,7 +50,7 @@
 
 | Dashboard                                            | Packliste                                              | Bucket List                                             |
 | ---------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------- |
-| ![Dashboard Screenshot](./src/screenshots/dashboard.png) | ![Packliste Screenshot](./src/screenshots/packinglist.png) | ![Bucket List Screenshot](./src/screenshots/bucketlist.png) |
+| ![Dashboard Screenshot](./screenshots/dashboard.png) | ![Packliste Screenshot](./screenshots/packinglist.png) | ![Bucket List Screenshot](./screenshots/bucketlist.png) |
 
 
 ---
